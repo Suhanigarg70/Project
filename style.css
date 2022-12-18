@@ -1,0 +1,171 @@
+html,body{
+  width: 100%;
+}
+.header{
+  text-align: right;
+  padding: 20px;
+}
+
+h1{
+  font-family: 'Lora', serif;
+}
+
+h5{
+  font-family: 'Signika', sans-serif;
+}
+
+/* <!---navigation bar -----> */
+
+
+i{
+  margin: 5px;
+}
+.logo{
+  padding: 10px;
+}
+.nav-item{
+  font-size: 1.2rem;
+}
+
+/* main-img */
+
+.main-img{
+  height: 600px;
+  width: 95%;
+  align-items: center;
+  margin: 40px 20px 50px 30px;
+  position: relative;
+  z-index: -1;
+
+}
+
+.row0{
+  position: absolute;
+  bottom: 10px;
+  left: 43px;
+  top: 250px;
+
+  z-index: 0;
+}
+
+#form{
+margin: 30px;
+background-color: #FFE15D;
+}
+.form-floating{
+  margin: 5px 15px 5px 15px ;
+  color: black;
+}
+  /* defination */
+
+.defination{
+  padding: 30px;
+  margin: 50px 0 50px 0 ;
+}
+
+.def-title{
+  text-align: center;
+  margin-bottom: 50px;
+
+}
+
+.def-pic{
+  float: left;
+  padding-right: 30px;
+}
+.def-content{
+  font-size: 1.5rem;
+
+  text-align: justify;
+}
+
+/* plans */
+
+#plans{
+  background-color:  #FF731D;
+}
+
+.plans-title{
+  text-align: center;
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+
+.card-img-top{
+  height: 12rem;
+  width: 17.9rem;
+  align-self: center;
+}
+.p{
+  width:40%;
+  height: 70%;
+  padding-bottom:40px;
+  margin-left: 200px;
+}
+.plan-c{
+display: inline-block;
+margin: 20px 100px 30px 100px;
+
+}
+.card-text{
+  font-size: 1rem;
+  font-family: sans-serif;
+}
+
+.card-title{
+  font-size: 1.5rem;
+}
+.p1{
+  align-content: center;
+}
+
+.plans{
+  align-content:center;
+  margin-bottom: 50px;
+  padding-bottom: 50px;
+}
+
+/* why choose us */
+
+.choose{
+  text-align: center;
+}
+.choose-title{
+
+}
+.card-group{
+  margin: 50px 30px 50px 30px;
+  border-style: none;
+}
+
+.c{
+  border-style: none;
+}
+
+.choose-pic{
+  margin-top: 30px;
+  height: 12rem;
+  width: 18rem;
+  align-self: center;
+  margin-bottom: 20px;
+}
+
+/* footer */
+
+.TERMS{
+  text-align: justify;
+  margin: 30px 30px 30px 30px;
+  font-size: 15px;
+}
+
+.bottom-container{
+  background-color: #FF731D;
+  text-align: center;
+  padding-top: 30px;
+
+  }
+  .ultrasmall{
+  width: 25px;
+  height: 25px;
+  margin: 10px;
+  }
